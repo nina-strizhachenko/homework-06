@@ -10,6 +10,8 @@ const categoryTitleEl = categoriesEl.forEach(titleEl => {
 });
 
 
+
+
     
 
 

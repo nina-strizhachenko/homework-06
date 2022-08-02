@@ -11,3 +11,7 @@ function checkInput(event) {
 };
 
 inputEl.addEventListener('blur', checkInput);
+
+
+
+

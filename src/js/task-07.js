@@ -8,4 +8,6 @@ function changesFontSize() {
     return spanText.style.fontSize;
 }
     
-    inputFontSize.addEventListener('input', changesFontSize);
+inputFontSize.addEventListener('input', changesFontSize);
+    
+

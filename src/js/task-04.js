@@ -13,3 +13,6 @@ buttonIncrEl.addEventListener('click', () => {
     counterValue += 1;
     valueEl.textContent = counterValue;
 })
+
+
+

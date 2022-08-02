@@ -8,3 +8,4 @@ function onInput(event) {
     }
     
 input.addEventListener('input', onInput);
+

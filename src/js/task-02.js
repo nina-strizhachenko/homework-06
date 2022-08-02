@@ -23,5 +23,8 @@ for (let ingredient of ingredients) {
 listEl.append(...arrayItems); 
 
 
+
+
+
   
 
