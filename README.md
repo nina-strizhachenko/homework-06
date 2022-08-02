@@ -1,1 +1,1 @@
-# homework-06
+# goit-js-hw-06
